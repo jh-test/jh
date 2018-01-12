@@ -21,7 +21,8 @@ public class test extends HttpServlet {
 		
 		out.println("<h1>Hello "+id+"</h1>");
 		out.println("<h2>Your Password "+pwd+"</h2>");
-	}
+		out.println("한글테스트");
+		}
 
 	protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
 		doGet(request, response);
