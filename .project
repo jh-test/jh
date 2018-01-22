@@ -28,4 +28,11 @@
 		<nature>org.eclipse.jdt.core.javanature</nature>
 		<nature>org.eclipse.wst.jsdt.core.jsNature</nature>
 	</natures>
+	<linkedResources>
+		<link>
+			<name>jsp</name>
+			<type>2</type>
+			<location>C:/Users/504CLASS 03/Desktop/new/.metadata/.plugins/org.eclipse.wst.server.core/tmp0/work/Catalina/localhost/ojh/org/apache/jsp</location>
+		</link>
+	</linkedResources>
 </projectDescription>
